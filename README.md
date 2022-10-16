@@ -59,9 +59,11 @@ No partners we used.
 
 The simulations were made int the Unity Engine 2021.3.10f1. The UnityEngine and Cinnemachine libraries were used. Models were all from the Unity Asset Store.
 
-Art contest submission:
+Art contest submissions:
 
-Nebula Stellar Nursery
-![Too Many Suns](https://user-images.githubusercontent.com/47149695/193377270-f60c7fd3-dfcb-4006-9eb6-075790cd1a80.png)
+![Flag](https://user-images.githubusercontent.com/47149695/196016667-c0105dd9-bf9d-4771-bd28-98f8d4d53fae.png)
 
-Let me know if you do not have access to the code repo
+![Waves](https://user-images.githubusercontent.com/47149695/196016682-35964d82-f2f8-46d9-8005-64c61415d3d1.png)
+
+
+Let me know if you do not have access to the repo
